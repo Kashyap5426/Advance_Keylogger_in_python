@@ -1,0 +1,10 @@
+Public Ip Address : 117.203.246.41Processor : Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System : Windows 10.0.25145
+Machine : AMD64
+Hostname : PrincePrivate Ip Address : 172.16.52.163Public Ip Address : 117.203.246.41Processor : Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System : Windows 10.0.25145
+Machine : AMD64
+Hostname : PrincePrivate Ip Address : 172.16.52.163Public Ip Address : 117.203.246.41Processor : Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System : Windows 10.0.25145
+Machine : AMD64
+Hostname : PrincePrivate Ip Address : 172.16.52.163
